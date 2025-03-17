@@ -4,7 +4,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://somoskudasai.com/wp-content/uploads/2022/11/Visual-28-1-scaled.jpg"/>
 
-<h2> / about me /</h2>
+<h2> / sobre mi 😃 /</h2>
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
