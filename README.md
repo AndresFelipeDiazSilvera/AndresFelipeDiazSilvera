@@ -6,7 +6,7 @@
 
 <h2> / sobre mi 😃 /</h2>
   
-- ⭐ currently working on **web-development**
+- 🎓 **ingeniero de sistemas**
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
 
