@@ -17,11 +17,14 @@
 - <h4> lenguajes principales </h4>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java,kotlin,ts,py)](https://skillicons.dev)
 
-- <h4> frameworks & librerias que manejo </h4>
+- <h4> frameworks & librerias </h4>
 [![My Skills](https://skillicons.dev/icons?i=astro,angular,react,dotnet,django,spring,flutter,vue,vite,bootstrap,nextjs,nodejs,tailwind)](https://skillicons.dev)
 
-- <h4> bases de datos que manejo </h4>
+- <h4> bases de datos </h4>
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+
+- <h4> motores gráficos </h4>
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev)
 
  </br></br>
 </div>
