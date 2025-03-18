@@ -29,5 +29,11 @@
 - <h4> Entornos de desarrollos (IDE) y editores de código </h4>
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,idea,webstorm)](https://skillicons.dev)
 
+- <h4> Serveless </h4>
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)
+
+- <h4> Herramientas de diseño </h4>
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+
  </br></br>
 </div>
