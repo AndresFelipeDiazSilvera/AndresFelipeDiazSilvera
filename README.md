@@ -5,6 +5,8 @@
 <img align="right" width="400" alt="Shimarin" src="https://somoskudasai.com/wp-content/uploads/2022/11/Visual-28-1-scaled.jpg"/>
 
 <h2> / sobre mi 😃 /</h2>
+
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
   
 - 🎓 **Ingeniero de Sistemas**
 - 📚 **Junior Full Stack Developer**
