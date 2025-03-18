@@ -14,7 +14,7 @@
 
 <h2> / competencias actuales / </h2>
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,react)](https://skillicons.dev)
+- <h4> lenguajes principales </h4>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java,kotlin,ts)](https://skillicons.dev)
 
 </div>
