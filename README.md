@@ -12,7 +12,7 @@
 - 📝 **Me encanta compartir conocimientos y mejorar mis habilidades a través de la práctica, la experimentación y la comunidad tech.**
 - 💡 **Aunque estoy iniciando mi carrera profesional en desarrollo, cuento con una sólida formación en ingeniería de sistemas y experiencia en distintos proyectos. Mi enfoque es seguir creciendo en el ámbito del desarrollo de software, explorar nuevas tecnologías y contribuir en proyectos innovadores.**
 
-<h2> / competencias actuales / </h2>
+<h2> / 👨🏻‍💻 competencias actuales 👨🏻‍💻/ </h2>
 
 - <h4> lenguajes principales </h4>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java,kotlin,ts,py)](https://skillicons.dev)
