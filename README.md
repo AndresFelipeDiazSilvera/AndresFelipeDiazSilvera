@@ -7,8 +7,11 @@
 <h2> / sobre mi 😃 /</h2>
   
 - 🎓 **ingeniero de sistemas**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- 📚 **Junior Full Stack Developer**
+- 👾 **Junior Game Developer** 
+- 📝 **Me encanta compartir conocimientos y mejorar mis habilidades a través de la práctica, la experimentación y la comunidad tech.**
+- 💡 **Aunque estoy iniciando mi carrera profesional en desarrollo, cuento con una sólida formación en ingeniería de sistemas y experiencia en distintos proyectos. Mi enfoque es seguir creciendo en el ámbito del desarrollo de software, explorar nuevas tecnologías y contribuir en proyectos innovadores.**
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,react)](https://skillicons.dev)
 
