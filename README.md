@@ -35,7 +35,7 @@
 - <h4> Herramientas de diseño </h4>
 [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contacta Conmigo
 
 [![image](https://img.shields.io/badge/LinkedIn-261FB3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-felipe-diaz-silvera-250a0b234/)
 [![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d1az__andres/)
