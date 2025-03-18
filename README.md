@@ -10,7 +10,7 @@
 - 👾 **Junior Game Developer**
 - 📝 **Me encanta compartir conocimientos y mejorar mis habilidades a través de la práctica, la experimentación y la comunidad tech.**
 - 💡 **Aunque estoy iniciando mi carrera profesional en desarrollo, cuento con una sólida formación en ingeniería de sistemas y experiencia en distintos proyectos. Mi enfoque es seguir creciendo en el ámbito del desarrollo de software, explorar nuevas tecnologías y contribuir en proyectos innovadores.**
-- 📧 Contáctame: **diazilvera1@gmail.com**
+
 
 <h2> / 👨🏻‍💻 competencias actuales 👨🏻‍💻/ </h2>
 
@@ -34,6 +34,15 @@
 
 - <h4> Herramientas de diseño </h4>
 [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/andres-felipe-diaz-silvera-250a0b234/"><img src="https://img.shields.io/badge/-Andres%20LInkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rafael.jr077@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/rafael.azizovv/"><img src="https://img.shields.io/badge/-@rafael.azizovv_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/rafael.azizov.503/"><img src="https://img.shields.io/badge/-@rafael.azizovv-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
