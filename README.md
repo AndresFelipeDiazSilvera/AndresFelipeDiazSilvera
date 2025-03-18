@@ -10,6 +10,7 @@
 - 👾 **Junior Game Developer**
 - 📝 **Me encanta compartir conocimientos y mejorar mis habilidades a través de la práctica, la experimentación y la comunidad tech.**
 - 💡 **Aunque estoy iniciando mi carrera profesional en desarrollo, cuento con una sólida formación en ingeniería de sistemas y experiencia en distintos proyectos. Mi enfoque es seguir creciendo en el ámbito del desarrollo de software, explorar nuevas tecnologías y contribuir en proyectos innovadores.**
+- 📧 Contáctame: **diazilvera1@gmail.com**
 
 <h2> / 👨🏻‍💻 competencias actuales 👨🏻‍💻/ </h2>
 
