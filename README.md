@@ -17,4 +17,6 @@
 - <h4> lenguajes principales </h4>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java,kotlin,ts,py)](https://skillicons.dev)
 
+- <h4> frameworks & librerias que manejo </h4>
+[![My Skills](https://skillicons.dev/icons?i=astro,angular,react,dotnet,django,flutter,vue,vite,bootstrap,nextjs,nodejs,tailwind)](https://skillicons.dev)
 </div>
