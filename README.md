@@ -6,7 +6,7 @@
 
 <h2> / sobre mi 😃 /</h2>
   
-- 🎓 **ingeniero de sistemas**
+- 🎓 **Ingeniero de Sistemas**
 - 📚 **Junior Full Stack Developer**
 - 👾 **Junior Game Developer** 
 - 📝 **Me encanta compartir conocimientos y mejorar mis habilidades a través de la práctica, la experimentación y la comunidad tech.**
@@ -22,4 +22,6 @@
 
 - <h4> bases de datos que manejo </h4>
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+
+ </br></br>
 </div>
