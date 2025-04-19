@@ -38,7 +38,6 @@
 ### 🤝🏻 &nbsp;Contacta Conmigo
 
 [![image](https://img.shields.io/badge/LinkedIn-261FB3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-felipe-diaz-silvera-250a0b234/)
-[![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d1az__andres/)
 [![Gmail badge](https://img.shields.io/badge/diazilvera1@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diazilvera1@gmail.com)
 [![Github badge](https://img.shields.io/badge/AndresFelipeDiazSilvera-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresFelipeDiazSilvera)
 
