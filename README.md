@@ -2,7 +2,7 @@
 
 <div>
   
-<img align="right" width="400" alt="Shimarin" src="[https://somoskudasai.com/wp-content/uploads/2022/11/Visual-28-1-scaled.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2Fskrillex-recess--849913760961808046%2F&psig=AOvVaw3Q9lMci5-3qqivYjVHb2WI&ust=1751064568529000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLj7vP-VkI4DFQAAAAAdAAAAABAM)"/>
+<img align="right" width="400" alt="Shimarin" src=""/>
 <h2> / sobre mi 😃 /</h2>
   
 - 🎓 **Ingeniero de Sistemas**
