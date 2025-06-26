@@ -2,7 +2,7 @@
 
 <div>
   
-<img align="right" width="400" alt="Shimarin" src=""/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/736x/3b/e5/93/3be5937990e3f29d51c4aa425aedecb7.jpg"/>
 <h2> / sobre mi 😃 /</h2>
   
 - 🎓 **Ingeniero de Sistemas**
